@@ -1,0 +1,20 @@
+<h1> Aprenda a programar em um fds </h1>
+<p> Estou fazendo a minha primeira landing page </p>
+<h2> landing page </h2>
+<p> Estou fazendo a minha primeira landing page </p>
+<img
+src="https://financesonline.com/uploads/2015/12/app.jpg" 
+     class="displayed"
+     alt="" />
+<h2>App com Ionic</h2>
+<p> Amanhã vou fazer meu app com Ionic </p>
+<ol>
+  <li class="destaque">Ionic</li>
+  <li class="deep">iPhone</li>
+  <li>Android</li>
+</ol>
+<ul>
+  <li class="destaque">Ionic</li>
+  <li class="destaque">iPhone</li>
+  <li>Android</li>
+</ul>
